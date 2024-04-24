@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    body{
+    background-color:  hsl(0, 0%, 95%) ;
+    max-width: 375px;
+    }
+    .div1{
+    background-color: hsl(31, 77%, 52%);
+    width: 330px;
+    height: 550px;
+    border-radius: 7px 7px 0px 0px;
+    margin-left: 250px;
+    margin-top: 49px;
+    border-bottom-left-radius: 7px;
+    }
+    .img1{
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    .h1{
+    font-size: 45px;
+    font-family:Big Shoulders Display ;
+    color: hsl(0, 0%, 95%);
+    font-weight: 700;
+    margin-top: -220px;
+    margin-left: 50px;}
+    .teqsti1{
+        color: hsl(0, 0%, 95%); 
+        font-family: Lexend Deca;
+        margin-top: 120px;
+        margin-left: 50px;
+    }
+    .teqsti2{
+       color: hsl(0, 0%, 95%); 
+       font-family: Lexend Deca;
+       margin-top: 5px;
+       margin-left: 50px;
+    }
+    .teqsti3{
+        color: hsl(0, 0%, 95%); 
+        font-family: Lexend Deca;
+        margin-top: 5px;
+        margin-left: 50px;
+    }
+    .teqsti4{
+        color: hsl(0, 0%, 95%); 
+        font-family: Lexend Deca;
+        margin-top: 5px;
+        margin-left: 50px;
+    }
+    .teqsti5{
+        color: hsl(0, 0%, 95%); 
+        font-family: Lexend Deca;
+        margin-top: 5px;
+        margin-left: 50px;
+    }
+    .div2{
+      width: 150px;
+      height: 50px;
+      background-color: white;
+      border-radius:100px;
+      margin-top: 270px;
+      margin-left: 50px;
+    }
+    .p1{
+      color:hsl(31, 77%, 52%) ;
+      font-family: Lexend Deca;
+      margin-left: 30px;
+      padding-top: 15px;
+    }
+    .div3{
+     background-color: hsl(184, 100%, 22%);
+     width: 330px;
+     height: 550px;
+     margin-left: 575px;
+     margin-top:-550px;
+    }
+    .img2{
+     margin-left: 50px;
+     margin-top: 50px;
+    }
+    .h2{
+    font-size: 45px; 
+    font-family:Big Shoulders Display ;
+    color: hsl(0, 0%, 95%);
+    font-weight: 700;
+    margin-top: -220px;
+    margin-left: 53px;
+    }
+    .teqsti6{
+        color: hsl(0, 0%, 95%); 
+        font-family: Lexend Deca;
+        margin-top: 120px;
+        margin-left: 50px;
+    }
+    .teqsti7{
+        color: hsl(0, 0%, 95%); 
+        font-family: Lexend Deca;
+        margin-top: 5px;
+        margin-left: 50px;
+    }
+    .teqsti8{
+        color: hsl(0, 0%, 95%); 
+        font-family: Lexend Deca;
+         margin-top: 5px;
+         margin-left: 50px;
+    }
+    .teqsti9{
+         color: hsl(0, 0%, 95%); 
+         font-family: Lexend Deca;
+         margin-top: 5px;
+         margin-left: 50px;
+     }
+    .teqsti10{
+          color: hsl(0, 0%, 95%); 
+          font-family: Lexend Deca;
+          margin-top: 5px;
+         margin-left: 50px;
+     }
+     .div4{
+            width: 150px;
+            height: 50px;
+            background-color: white;
+            border-radius:100px;
+            margin-top: 270px;
+            margin-left: 50px;
+     }
+        .teqsti11{
+        color: hsl(184, 100%, 22%) ;
+        font-family: Lexend Deca;
+        margin-left: 30px;
+        padding-top: 15px;
+        }
+        .div5{
+         background-color: hsl(179, 100%, 13%);
+         width: 330px;
+         height: 550px;
+         margin-left: 905px;
+         margin-top:-550px;
+         border-radius: 0px 10px 7px 0px;
+        }
+        .img3{
+            margin-left: 50px;
+            margin-top: 50px;
+        }
+        .h3{font-size: 45px; 
+        font-family:Big Shoulders Display ;
+        color: hsl(0, 0%, 95%);
+        font-weight: 700;
+        margin-top: -220px;
+        margin-left: 53px
+        }
+        .teqsti12{
+            color: hsl(0, 0%, 95%); 
+            font-family: Lexend Deca;
+            margin-top: 120px;
+            margin-left: 50px;
+        }
+        .teqsti13{
+            color: hsl(0, 0%, 95%); 
+            font-family: Lexend Deca;
+            margin-top: 5px;
+            margin-left: 50px;
+        }
+        .teqsti14{
+            color: hsl(0, 0%, 95%); 
+            font-family: Lexend Deca;
+            margin-top: 5px;
+            margin-left: 50px;
+        }
+        .teqsti15{
+            color: hsl(0, 0%, 95%); 
+            font-family: Lexend Deca;
+            margin-top: 5px;
+            margin-left: 50px;
+        }
+        .teqsti16{
+            color: hsl(0, 0%, 95%); 
+            font-family: Lexend Deca;
+            margin-top: 5px;
+            margin-left: 50px;
+        }
+        .div4{
+            width: 145px;
+            height: 50px;
+            background-color: white;
+            border-radius:100px;
+            margin-top: 270px;
+            margin-left: 50px;
+        }
+        .div6{
+            width: 145px;
+            height: 50px;
+            background-color: white;
+            border-radius:100px;
+            margin-top: 270px;
+            margin-left: 50px;
+        }
+        .teqsti17{
+            color:  hsl(179, 100%, 13%);
+            font-family: Lexend Deca;
+            margin-left: 30px;
+           
+            padding-top: 15px;
+        }
+       .div2:hover{background-color: black;border-color: hwb(0 95% 5%);}
+       .div4:hover{background-color: black;}
+       .div6:hover{background-color: black;}
+    @media screen and (max-width:400px) {
+        .div1 {margin-top:0px;
+              margin-left: auto;
+              margin-right: auto;}
+    }
+    @media  screen and 
+        (max-width: 400px)
+      {
+        .div3 {  margin-top:0px;
+        margin-left:auto;
+        margin-right: auto;}
+      }  
+    @media screen and (max-width:400px) {
+        .div5 {margin-top:0px;
+            margin-left: auto;
+            margin-right: auto;}
+    }
+    
+    
+    
+        
+    
+        
+
